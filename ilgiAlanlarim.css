@@ -1,0 +1,32 @@
+.content{
+    width: 70%;
+    height: 100%;
+    background-color: white;
+    padding: 10px;
+    margin-left: 13%;
+}
+.ortaFilmlerinHepsiniKapsayan .ortaFilmlerinHepsiniKapsayan-Kapsayici {
+    width: 84%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  #foto {
+  margin-left: 80px;
+}
+#gizle{
+    margin-left: 8%;
+}
+  .ortaFilmlerinHepsiniKapsayan .ortaFilmlerinHepsiniKapsayan-Kapsayici .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    margin: 15px;
+    border-radius: .25rem;
+    border: 0px solid rgba(0, 0, 0, 0.125);
+  }
